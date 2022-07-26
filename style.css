@@ -1,0 +1,32 @@
+.calculator{
+    height: 350px;
+    width: 280px;
+    background-color: rgba(173, 94, 65, 0.801);
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid gray;
+}
+.main-bar{
+    margin-bottom: 20px;
+    text-align: right;
+}
+.btn{
+    font-size: 20px;
+    cursor: pointer;
+    width: 61px;
+}
+.numbers{
+    margin-bottom: 10px;
+}
+.last input{
+    width: 126px;
+}
+#inp {
+    font-size: 23px;
+    font-weight: bold;
+}
+h1{
+    margin-top: 50px;
+    color: purple;
+}
